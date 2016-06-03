@@ -1,5 +1,5 @@
 FROM ouyi/ubuntu-precise-core-i386
-MAINTAINER Yi Ou
+MAINTAINER Yi Ou <https://github.com/ouyi>
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get update
