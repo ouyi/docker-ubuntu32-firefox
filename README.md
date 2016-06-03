@@ -1,6 +1,6 @@
 ## About
 
-Dockerized Cisco WebEx based on 32-bit Ubuntu. Desktop sharing works (tested on Fedora 23).
+Dockerized Cisco WebEx based on 32-bit Ubuntu (see also: https://github.com/ouyi/docker-ubuntu-precise-core-i386). Desktop sharing works (tested on Fedora 23).
 
 ## Build
 
