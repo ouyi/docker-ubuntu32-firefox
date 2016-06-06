@@ -13,4 +13,5 @@ Dockerized 32-bit Firefox that works with Cisco WebEx, based on 32-bit Ubuntu (s
 
 ## Known issues
 
-Personal rooms not supported, according to https://help.webex.com/docs/DOC-4748
+- Personal rooms not supported, according to https://help.webex.com/docs/DOC-4748
+- If the host machine has a VPN connection, the Docker container may have problems accessing the Internet. Adding "--net=host" may work around the issue.
