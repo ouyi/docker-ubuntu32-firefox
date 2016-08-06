@@ -1,4 +1,4 @@
-FROM ouyi/ubuntu-precise-core-i386
+FROM ouyi/docker-ubuntu-precise-core-i386
 MAINTAINER Yi Ou <https://github.com/ouyi>
 ENV DEBIAN_FRONTEND noninteractive
 
